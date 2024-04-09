@@ -1,0 +1,56 @@
+{
+  // ==== window ====
+  "window.customTitleBarVisibility": "windowed",
+  "window.menuBarVisibility": "compact",
+  "window.restoreWindows": "none",
+  "window.titleBarStyle": "custom",
+  "window.commandCenter": true,
+  // ==== workbench ====
+  "workbench.layoutControl.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.sideBar.location": "right",
+  "workbench.productIconTheme": "icons-carbon-tweaked",
+  "workbench.colorTheme": "Vitesse Dark",
+  "workbench.iconTheme": "catppuccin-macchiato",
+  // ==== editor ====
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.inlineSuggest.enabled": true,
+  "editor.accessibilitySupport": "off",
+  "editor.stickyScroll.enabled": true,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.renderLineHighlight": "none",
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.indentation": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "editor.suggest.preview": true,
+  "editor.cursorBlinking": "expand",
+  "editor.matchBrackets": "near",
+  "editor.fontLigatures": true,
+  "editor.linkedEditing": true,
+  "editor.tabCompletion": "on",
+  "editor.formatOnSave": true,
+  "editor.lineNumbers": "off",
+  "editor.fontFamily": "JetBrains Mono, FiraCode Nerd Font Mono, Input Mono, Hack, Consolas, 'Courier New', monospace",
+  "editor.lineHeight": 32,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  // ==== terminal ====
+  "terminal.integrated.enableMultiLinePasteWarning": "always",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.tabs.location": "left",
+  "terminal.integrated.fontWeight": "bold",
+  "terminal.integrated.lineHeight": 1.5,
+  "terminal.integrated.fontFamily": "FiraCode Nerd Font, \"MesloLGM NF\",  monospace",
+  "terminal.integrated.fontSize": 16,
+  // ==== languages ====
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  // ==== misc ====
+  "zenMode.centerLayout": false,
+  "breadcrumbs.enabled": false,
+  "files.eol": "\n"
+}
