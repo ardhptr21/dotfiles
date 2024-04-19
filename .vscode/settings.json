@@ -12,7 +12,7 @@
     "*.ipynb": "jupyter-notebook"
   },
   "workbench.sideBar.location": "right",
-  "workbench.productIconTheme": "icons-carbon-tweaked",
+  "workbench.productIconTheme": "icons-carbon",
   "workbench.colorTheme": "Vitesse Dark",
   "workbench.iconTheme": "catppuccin-macchiato",
   // ==== editor ====
